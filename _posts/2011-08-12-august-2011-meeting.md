@@ -1,0 +1,24 @@
+---
+title: August 2011 Meeting
+author: bsimpson
+layout: post
+categories:
+  - Uncategorized
+---
+# 
+
+The August 2011 RIRUG meeting has been scheduled for August 17.
+
+We will be holding the meeting Providence again at the following location:
+
+1 State St, Suite 401  
+Providence, RI
+
+  
+[View Larger Map][1]
+
+ [1]: http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=1 state street, providence, ri&aq=&sll=37.0625,-95.677068&sspn=33.02306,76.640625&ie=UTF8&hq=&hnear=1 State St, Providence, Rhode Island 02908&t=h&ll=41.832351,-71.413193&spn=0.002798,0.00456&z=17
+
+Parking is in the main lot in front of the building.
+
+If you have a talk you’d like to present please post to the mailing list as usual.

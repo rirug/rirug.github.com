@@ -1,0 +1,23 @@
+/* line 1, ../sass/rirug.scss */
+#header {
+  padding: 0 2em;
+  background-color: #eee;
+}
+/* line 4, ../sass/rirug.scss */
+#header h1, #header h2, #header h3, #header h4 {
+  margin-bottom: 0;
+}
+
+/* line 9, ../sass/rirug.scss */
+#mainContent {
+  padding: 0 1em;
+}
+/* line 11, ../sass/rirug.scss */
+#mainContent ul {
+  margin-left: 2em;
+}
+/* line 13, ../sass/rirug.scss */
+#mainContent ul .title {
+  font-size: 1.4em;
+  font-weight: normal;
+}
