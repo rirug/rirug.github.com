@@ -1,22 +1,30 @@
-/* line 1, ../sass/rirug.scss */
-#header {
-  padding: 0 2em;
-  background-color: #eee;
+/* line 3, ../sass/rirug.scss */
+#nav {
+  margin-bottom: 0 !important;
 }
-/* line 4, ../sass/rirug.scss */
-#header h1, #header h2, #header h3, #header h4 {
+
+/* line 7, ../sass/rirug.scss */
+#header {
+  margin: 0 1em 1em 1em;
+  padding: 0 0.8em;
+  -webkit-box-shadow: 0 3px 3px rgba(204, 204, 204, 0.7);
+  -moz-box-shadow: 0 3px 3px rgba(204, 204, 204, 0.7);
+  box-shadow: 0 3px 3px rgba(204, 204, 204, 0.7);
+}
+/* line 12, ../sass/rirug.scss */
+#header h1, #header h2, #header h3 {
   margin-bottom: 0;
 }
 
-/* line 9, ../sass/rirug.scss */
+/* line 19, ../sass/rirug.scss */
 #mainContent {
   padding: 0 1em;
 }
-/* line 11, ../sass/rirug.scss */
+/* line 21, ../sass/rirug.scss */
 #mainContent ul {
   margin-left: 2em;
 }
-/* line 13, ../sass/rirug.scss */
+/* line 23, ../sass/rirug.scss */
 #mainContent ul .title {
   font-size: 1.4em;
   font-weight: normal;

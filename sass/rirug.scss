@@ -1,8 +1,18 @@
+@import "compass/css3/box-shadow";
+
+#nav {
+  margin-bottom: 0 !important;
+}
+
 #header {
-  padding: 0 2em;
-  background-color: #eee;
-  h1, h2, h3, h4 {
+  margin: 0 1em 1em 1em;
+  padding: 0 0.8em;
+  @include box-shadow(0 3px 3px rgba(#ccc, 0.7));
+
+  h1, h2, h3 {
     margin-bottom: 0;
+  }
+  h4 {
   }
 }
 
