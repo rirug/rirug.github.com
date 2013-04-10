@@ -6,13 +6,10 @@
 
 #header {
   margin: 0 1em 1em 1em;
-  padding: 0 0.8em;
-  @include box-shadow(0 3px 3px rgba(#ccc, 0.7));
+  padding: 0;
 
   h1, h2, h3 {
     margin-bottom: 0;
-  }
-  h4 {
   }
 }
 
