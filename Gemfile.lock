@@ -37,7 +37,6 @@ GEM
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    maruku (0.7.2)
     mercenary (0.3.3)
     parslet (1.5.0)
       blankslate (~> 2.0)
@@ -62,6 +61,5 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 2.0.3)
-  maruku
   rake
   sass
