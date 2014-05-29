@@ -8,7 +8,7 @@ sass:
 
 permalink: /:year:month:day-:title
 
-exclude: [".ruby-version", "README.md", "Rakefile", "Gemfile", "Gemfile.lock", "scss", "config.rb", "bower_components", "bower.json", "node_modules", "package.json", "config.ru", "tmp", "Gruntfile.js"]
+exclude: [".ruby-version", "README.md", "Rakefile", "Gemfile", "Gemfile.lock", "scss", "config.rb", "bower_components", "bower.json", "node_modules", "package.json", "config.ru", "tmp", "Gruntfile.js", "js"]
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
