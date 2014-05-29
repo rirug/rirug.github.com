@@ -11,7 +11,7 @@ module.exports = function(grunt) {
           outputStyle: 'compressed'
         },
         files: {
-          'assets/stylesheets/rirug.css': 'scss/rirug.scss'
+          'assets/rirug.css': 'scss/rirug.scss'
         }
       }
     },
@@ -21,7 +21,7 @@ module.exports = function(grunt) {
         src: [
           'bower_components/jquery/dist/jquery.min.js'
         ],
-        dest: 'assets/js/jquery.min.js',
+        dest: 'assets/jquery.min.js',
       },
       dist: {
         src: [
@@ -38,7 +38,7 @@ module.exports = function(grunt) {
     uglify: {
       build: {
         src: 'js/build/rirug.js',
-        dest: 'assets/js/rirug.js'
+        dest: 'assets/rirug.js'
       }
     },
 
