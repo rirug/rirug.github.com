@@ -1,31 +1,28 @@
-auto: true
-pygments: true
-server: true
+highlighter: pygments
 paginate: 4
+timezone: America/New_York
 
-permalink: /:year:month:day-:title 
+sass:
+  sass_dir: _sass
+  style: :compressed
 
-exclude: [".ruby-version", "README.md", "Rakefile", "Gemfile", "Gemfile.lock", "sass", "config.rb"]
+permalink: /:year:month:day-:title
 
-# Themes are encouraged to use these universal variables 
+exclude: [".ruby-version", "README.md", "Rakefile", "Gemfile", "Gemfile.lock", "scss", "config.rb", "bower_components", "bower.json", "node_modules", "package.json", "config.ru", "tmp", "Gruntfile.js"]
+
+# Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
 title : Rhode Island Ruby Users Group
-description: Why should Massachusetts have all the fun?
-author :
-  name : RIRUG
-  # email : joe@joealba.com
-  # github : joealba
-  # twitter : joealba
+description: 
+author:
+  name: RIRUG
+  # email: joe@joealba.com
+  github: rirug
+  twitter: rirug
 
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
 # If you have set a CNAME (pages.github.com) set your custom domain here.
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-
 production_url : http://rirug.com
 
