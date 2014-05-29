@@ -1,6 +1,7 @@
 highlighter: pygments
 paginate: 4
 timezone: America/New_York
+markdown: kramdown
 
 sass:
   sass_dir: _sass
