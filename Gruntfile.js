@@ -29,15 +29,15 @@ module.exports = function(grunt) {
           'bower_components/jquery/dist/jquery.js',
           'bower_components/foundation/js/foundation/foundation.js',
           'bower_components/foundation/js/foundation/foundation.topbar.js',
-          'js/rirug.js'
+          // 'js/rirug.js'
         ],
-        dest: 'js/build/rirug.js',
+        dest: 'build/rirug.js',
       }
     },
 
     uglify: {
       build: {
-        src: 'js/build/rirug.js',
+        src: 'build/rirug.js',
         dest: 'assets/rirug.js'
       }
     },
