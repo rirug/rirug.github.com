@@ -3,6 +3,9 @@ paginate: 4
 timezone: America/New_York
 markdown: kramdown
 
+plugins:
+  - jekyll-paginate
+
 sass:
   sass_dir: _sass
   style: :compressed

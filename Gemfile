@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 2.0"
-gem 'rake'
-gem 'sass'
+gem "jekyll", "~> 4.2"
+gem "jekyll-paginate"
+gem "rake"
+gem "sass"
+gem "webrick"
 # gem "compass"
 # gem "rack-jekyll"

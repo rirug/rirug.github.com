@@ -3,6 +3,7 @@ _site/
 *.swp
 .DS_Store
 .sass-cache
+.jekyll-cache
 tmp
 /bower_components/*
 /node_modules/*
